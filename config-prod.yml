@@ -1,1 +1,2 @@
-config: prod
+config: 
+  info: master branch, spring-cloud-config/config-prod.yml
